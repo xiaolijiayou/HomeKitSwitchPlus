@@ -2,7 +2,7 @@
 
 在B站大佬创客尹白猿[视频地址](https://www.bilibili.com/video/BV1V3411376C/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=80076cf940dd05a06499f77a50708aba)基础上修改;
 
-up主源码[开源地址github]([GitHub - yinbaiyuan/HomeKitSwitch](https://github.com/yinbaiyuan/HomeKitSwitch)).  
+up主源码[开源地址github](https://github.com/yinbaiyuan/HomeKitSwitch).  
 
 ## 问题
 
@@ -16,7 +16,7 @@ up主源码[开源地址github]([GitHub - yinbaiyuan/HomeKitSwitch](https://gith
 
 # 参考文献
 
-- [如果与 WifiManager 一起使用，则会出现有关 base64 的错误]([fix: It base64 error if use with WifiManager by mrthiti · Pull Request #183 · Mixiaoxiao/Arduino-HomeKit-ESP8266 · GitHub](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266/pull/183)); 
+- [如果与 WifiManager 一起使用，则会出现有关 base64 的错误](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266/pull/183); 
 
 - homkit大佬[Mixiaoxiao](https://github.com/Mixiaoxiao?tab=repositories)的源码贡献；本项目参考[[Arduino-HomeKit-ESP8266](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266)]；
   
